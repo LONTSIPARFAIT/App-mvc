@@ -1,0 +1,17 @@
+{
+    "name": "dell/app-mvc",
+    "autoload": {
+        "psr-4": {
+            "Dell\\AppMvc\\": "src/",
+            "Router\\": "routes/",
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "LONTSIPARFAIT",
+            "email": "lontsiparfait12@gmail.com"
+        }
+    ],
+    "require": {}
+}
