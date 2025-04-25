@@ -1,1 +1,1 @@
-<h1>Post n <?= $params['id'] ?></h1>
+<h1>Post n <?= $params['id'] ?></h1> 
